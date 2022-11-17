@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\bin\Debug\inizialtion of varibles.exe.config
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\bin\Debug\inizialtion of varibles.exe
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\bin\Debug\inizialtion of varibles.pdb
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\obj\Debug\inizialtion of varibles.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\obj\Debug\inizialtion_of_varibles.frmdemo.resources
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\obj\Debug\inizialtion_of_varibles.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\obj\Debug\inizialtion of varibles.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\obj\Debug\inizialtion of varibles.exe
+C:\Users\Admin\Desktop\C# activites\inizialtion of varibles\inizialtion of varibles\obj\Debug\inizialtion of varibles.pdb

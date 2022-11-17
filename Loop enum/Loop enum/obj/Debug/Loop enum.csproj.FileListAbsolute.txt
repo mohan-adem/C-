@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C# activites\Loop enum\Loop enum\bin\Debug\Loop enum.exe.config
+C:\Users\Admin\Desktop\C# activites\Loop enum\Loop enum\obj\Debug\Loop enum.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# activites\Loop enum\Loop enum\obj\Debug\Loop_enum.frmdemo.resources
+C:\Users\Admin\Desktop\C# activites\Loop enum\Loop enum\obj\Debug\Loop_enum.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# activites\Loop enum\Loop enum\obj\Debug\Loop enum.csproj.GenerateResource.Cache
+D:\c#file\visual rem\Loop enum\Loop enum\bin\Debug\Loop enum.exe.config
+D:\c#file\visual rem\Loop enum\Loop enum\obj\Debug\Loop enum.csprojResolveAssemblyReference.cache
+D:\c#file\visual rem\Loop enum\Loop enum\obj\Debug\Loop_enum.frmdemo.resources
+D:\c#file\visual rem\Loop enum\Loop enum\obj\Debug\Loop_enum.Properties.Resources.resources
+D:\c#file\visual rem\Loop enum\Loop enum\obj\Debug\Loop enum.csproj.GenerateResource.Cache

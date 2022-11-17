@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\C# activites\Foreach loop\Foreach loop\bin\Release\Foreach loop.exe.config

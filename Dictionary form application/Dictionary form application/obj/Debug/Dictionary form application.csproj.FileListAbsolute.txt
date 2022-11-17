@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.exe.config
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\obj\Debug\Dictionary_form_application.frmdemo.resources
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\obj\Debug\Dictionary_form_application.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.exe
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.pdb
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.exe
+C:\Users\Admin\Desktop\C# activites\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.pdb
+G:\visual rem\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.exe.config
+G:\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.exe
+G:\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.pdb
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.exe.config
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.exe
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.pdb
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.exe
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\bin\Debug\Dictionary form application.pdb
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.csprojResolveAssemblyReference.cache
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary_form_application.frmdemo.resources
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary_form_application.Properties.Resources.resources
+D:\c#file\visual rem\Dictionary form application\Dictionary form application\obj\Debug\Dictionary form application.csproj.GenerateResource.Cache

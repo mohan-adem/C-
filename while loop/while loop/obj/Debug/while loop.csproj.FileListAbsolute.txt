@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\bin\Debug\while loop.exe.config
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\bin\Debug\while loop.exe
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\bin\Debug\while loop.pdb
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\obj\Debug\while loop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\obj\Debug\while_loop.frmdemo.resources
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\obj\Debug\while_loop.Properties.Resources.resources
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\obj\Debug\while loop.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\obj\Debug\while loop.exe
+C:\Users\Admin\Desktop\C# activites\while loop\while loop\obj\Debug\while loop.pdb
